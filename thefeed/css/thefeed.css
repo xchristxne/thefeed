@@ -1,0 +1,59 @@
+.rouge-script-regular{
+  font-family: "Rouge Script", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#body{
+  font-family: "Rouge Script", serif;
+  color: darkred;
+}
+h1{
+  font-family: "Rouge Script";
+  font-size: 200px;
+  text-align: center;
+  color: darkred;
+}
+br{
+  color: darkred;
+}
+
+h5 a{
+  color: darkred;
+  text-align: center;
+  font-size: 25px;
+  text-decoration: none;
+  justify-content: center;
+}
+
+#logo{
+  justify-content: center;
+  align-items: center;
+  padding-left: 100%;
+  display: flex;
+}
+
+
+#pinterest{
+  max-width: 1500px;
+}
+
+#insta{
+  max-width: 1500px;
+}
+
+#god{
+  max-width: 1500px;
+}
+
+footer{
+  background-color: darkred;
+  text-align: center;
+  height: 60px;
+}
+
+footer p{
+  font-family:Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
